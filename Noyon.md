@@ -3,7 +3,7 @@
 
 ** PROFILE PICTURE **
 
-<img src= "images/noyon.jpg" alt="Noyon" style="border-radius: 50%;">
+<img src= "images/noyon.jpg" alt="Noyon" style="border-radius: 50%">
 
 
 
